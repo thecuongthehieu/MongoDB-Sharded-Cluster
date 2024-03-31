@@ -3,4 +3,4 @@
 Usage
 --------- 
 - `./scripts/up-monggdb-cluster.sh`
-- ./scripts/down-monggdb-cluster.sh
+- `./scripts/down-monggdb-cluster.sh`
