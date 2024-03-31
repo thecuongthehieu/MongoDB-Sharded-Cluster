@@ -2,8 +2,10 @@
 
 Usage
 --------- 
-- `./scripts/up-monggdb-cluster.sh`
-- `./scripts/down-monggdb-cluster.sh`
+```console
+foo@bar:~$ ./scripts/up-monggdb-cluster.sh
+foo@bar:~$ ./scripts/down-monggdb-cluster.sh
+```
 
 Reference
 ---------
